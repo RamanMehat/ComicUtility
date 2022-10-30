@@ -1,10 +1,10 @@
 # requirements.txt
 
 # PIP: Package installer
-pip==19.3.1
+pip==22.3
 
 # Setuptools: Easily edit, install, upgrade Python packages
-setuptools==41.6.0
+setuptools==65.5.0
 
 # Click: Composable command line interface toolkit
-click==7.0
+click==8.1.3

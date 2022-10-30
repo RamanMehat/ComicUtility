@@ -3,4 +3,4 @@
 Version = 0.0.0
 
 ## Description
-Utilities scripts used for formatting Comics.
+Utility scripts used for formatting Comics.
