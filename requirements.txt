@@ -4,7 +4,7 @@
 pip==22.3
 
 # Setuptools: Easily edit, install, upgrade Python packages
-setuptools==65.5.0
+setuptools==65.5.1
 
 # Click: Composable command line interface toolkit
 click==8.1.3
