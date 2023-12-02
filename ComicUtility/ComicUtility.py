@@ -23,7 +23,7 @@ def comic_utility_main(mode, path_to_input, path_to_output, help_msg):
     -i, --input  [input file]:  path to the comic files folder.
     -o, --output [output file]: path to output folder where to save the altered comic files.
     -m, --mode   required which can take the following values.
-        convert:  convert Comic from cbr/cbz to pdf..
+        convert:  convert Comic from cbr/cbz to pdf.
         re-name:  re-name comics to a given format Issue_Number Comic_Name.
     """
 
