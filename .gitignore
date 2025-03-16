@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# PyCharm Files
+.idea
+.run
+__pycache__
+
+# Mac Hidden Files
+.DS_Store
