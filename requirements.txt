@@ -1,0 +1,19 @@
+# requirements.txt
+
+# PIP: Package installer
+pip==24.3.1
+
+# Setuptools: Easily edit, install, upgrade Python packages
+setuptools==75.6.0
+
+# Wheel: A built-package format for Python
+wheel==0.45.1
+
+# Click: Composable command line interface toolkit
+click==8.1.8
+
+# PyMuPDF: A high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
+PyMuPDF==1.25.1
+
+# pillow: Python Imaging Library (Fork)
+pillow==11.1.0
