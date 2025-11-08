@@ -9,8 +9,8 @@ import os
 import re
 import shutil
 
-REGEX = r"[A-Za-z!'., -]{0,}[0-9]{0,4}"
-REGEX_NAME = r"[A-Za-z!'., -]{0,}"
+REGEX = r"[A-Za-z!&'., -]{0,}[0-9]{0,4}"
+REGEX_NAME = r"[A-Za-z!&'., -]{0,}"
 REGEX_NBR = r"\D"
 REGEX_OTHER = r"[_][0-9]{1,4}"
 

@@ -3,7 +3,7 @@
 """  Comic Utility Entry point from the main function """
 
 # Import statement
-from ComicUtility.ConvertComics import ConvertComics
+from ComicUtility.ConvertComics import ConvertComics as ConvertComics
 from ComicUtility.ReNameComics import ReNameComics
 from ComicUtility.ComicUtilities import PrintCommandHelperInfo as Help
 from ComicUtility.CheckLastPageOfComic import CheckLastPageOfComic
@@ -30,7 +30,7 @@ def comic_utility_main(mode, path_to_input, path_to_output, help_msg):
 
     Help.print_header()
     if mode == "convert":
-        ConvertComics.convert_comics(path_to_input)
+        ConvertComics.batch_convert_comics(path_to_input, path_to_output)
 
     elif mode == "re-name":
         ReNameComics.rename_comic_files(path_to_input, path_to_output)

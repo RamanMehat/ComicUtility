@@ -17,3 +17,4 @@ PyMuPDF==1.25.1
 
 # pillow: Python Imaging Library (Fork)
 pillow==11.1.0
+

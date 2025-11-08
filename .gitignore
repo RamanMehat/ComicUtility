@@ -13,3 +13,14 @@ __pycache__
 
 # Mac Hidden Files
 .DS_Store
+
+
+/venv
+output/Slaughter_on_Fifth_Avenue.pdf
+output/Saga v02 (2013) GetComics.INFO.pdf
+.DS_Store
+input/Saga v02 (2013) GetComics.INFO.cbr
+input/Slaughter_on_Fifth_Avenue.cbz
+Slaughter_on_Fifth_Avenue.pdf
+/input
+/output
